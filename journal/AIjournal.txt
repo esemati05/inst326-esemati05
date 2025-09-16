@@ -1,0 +1,4 @@
+This week, I only had a few notable uses of AI, one of the being chatGPT, where I asked it to create a study plan for a certification I
+am trying to get. I think this is one the most "practical" uses of AI, where youre not actually asking for it to provide you with any profound
+knowledge, but rather using it to do tasks which require complex orginization, things that have lots of components which would be difficult
+for a human brain to process and piece all together. this is my chat with it: https://chatgpt.com/c/68c73d7b-dd54-832c-ba51-9ed1a1f8f49c
