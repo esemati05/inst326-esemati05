@@ -2,3 +2,17 @@ This week, I only had a few notable uses of AI, one of the being chatGPT, where 
 am trying to get. I think this is one the most "practical" uses of AI, where youre not actually asking for it to provide you with any profound
 knowledge, but rather using it to do tasks which require complex orginization, things that have lots of components which would be difficult
 for a human brain to process and piece all together. this is my chat with it: https://chatgpt.com/c/68c73d7b-dd54-832c-ba51-9ed1a1f8f49c
+
+
+
+Week 2 
+
+This week I wanted to calibrate my ChatGPT account in order for it to get to know what courses I'm taking. 
+Just out of curiosity, I asked if it knew what classes I was taking currently, just based on my previous chats, 
+even though I have never explicitly told it about what classes I'm taking. The list of courses it gave me was 
+all my courses from the previous semester. This means that the AI model is very good at recognizing courses based 
+on content; however, it probably needs larger amounts of data fed into it by the user before it can confirm if the 
+user is taking a certain course or whether the user is just asking singular questions. I spent a lot of time last 
+semester feeding ChatGPT practice problems and whatnot from my courses, so I'm sure once I get farther 
+into the semester, it will start to recognize what courses I'm taking currently. 
+
