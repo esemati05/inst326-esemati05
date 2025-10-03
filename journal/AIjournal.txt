@@ -26,4 +26,5 @@ to rise in the near future. I asked chatGPT for the past ticket prices that have
 it seemed to produce results which were all over the place. The ticket prices it priduced were ranging from less than 100 to 
 1000 dollars, which is not really helpful in my case. I have noticed that I google things less often now, but rather
 use chatGPT as my search engine. I think the age of googling things is coming to a close, because why manually search for 
-things when you can have an AI assistant pull exact pieces of information from that same data pool?
+things when you can have an AI assistant pull exact pieces of information from that same data pool? This is the link
+to my chat: https://chatgpt.com/c/68d54fc8-9934-8331-8bbb-77d3f9cc6939 
