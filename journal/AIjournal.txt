@@ -16,3 +16,14 @@ user is taking a certain course or whether the user is just asking singular ques
 semester feeding ChatGPT practice problems and whatnot from my courses, so I'm sure once I get farther 
 into the semester, it will start to recognize what courses I'm taking currently. 
 
+
+week 3: 
+
+This week i used AI several times, mostly for motonous work from some of my courses, however one use of AI 
+I think was interesting was when I used it to search for a historical record of past ticket prices for this DJ
+I wanted to get tickets for. I'm planning on selling one of the tickets, so I wanted to know if the price is likely
+to rise in the near future. I asked chatGPT for the past ticket prices that have been listed before, however 
+it seemed to produce results which were all over the place. The ticket prices it priduced were ranging from less than 100 to 
+1000 dollars, which is not really helpful in my case. I have noticed that I google things less often now, but rather
+use chatGPT as my search engine. I think the age of googling things is coming to a close, because why manually search for 
+things when you can have an AI assistant pull exact pieces of information from that same data pool?
