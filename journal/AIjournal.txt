@@ -49,6 +49,12 @@ own AI feature, however it is not nearly as advanced as chatGPT, so its practiac
 https://chatgpt.com/c/68f96aa9-b0b8-8325-a1d8-23dabc781cc5
 
 week 6: 
-This week I used AI to  
+This week I used AI to find peer reviewed, reliable sources for one of my papers. One of the most tedious parts of 
+writing a research paper is finding reliable sources. I used chatGPT to do a targeted search on links across the 
+web, on the topic of the impacts of alternative banking on climate. obviously I had to double check the validity of 
+each source, but it is still much more convinenet than searching for it on google. Furthermore, I can paste the contents
+of each peer reviewed article into chatGPT and get insight on the actual content. This is my chat: 
+https://chatgpt.com/c/68f2d268-fb64-8322-a5a9-bffd900c99a1 
+
 
 
