@@ -36,3 +36,19 @@ best. However, once I started trying to actually get insight on the readings, th
 because chatGPT often holds back certain observations in order to appeal to the user, which can become a problem when
 trying to give an unbiased take on topics involving race and socioeconomic statis. This is my chat with:
 https://chatgpt.com/c/68f67912-f3b8-8322-9e1c-df46d6ce97df 
+
+
+wwek 5: 
+
+This week I used AI to help me with one of my gened courses: edhd231. This course is a study on creativity, and we 
+were tasked with creating a map of concepts introduced within the course. One thing I found it often struggled with 
+was generating connections between terms. suprisingly though, its image generation for the mind map was decent. All 
+the lines actually connected to nodes, and the text was perfect and not blurry. However, I do wish that chatGPT 
+could directly access external tools, such as the platform "lucid" which is where the actual mind map is done. Lucid has its
+own AI feature, however it is not nearly as advanced as chatGPT, so its practiaclly useless. This is my chat: 
+https://chatgpt.com/c/68f96aa9-b0b8-8325-a1d8-23dabc781cc5
+
+week 6: 
+This week I used AI to  
+
+
