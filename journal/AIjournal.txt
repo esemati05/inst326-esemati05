@@ -57,4 +57,22 @@ of each peer reviewed article into chatGPT and get insight on the actual content
 https://chatgpt.com/c/68f2d268-fb64-8322-a5a9-bffd900c99a1 
 
 
+week 7: 
+This week I used chatGPT to help with my presentation for one of my genED courses.
+ I specificially asked it to create debriefing questions, which we would ask the class after 
+ the group activity that we were facilitating. One of the problems I ran into was that chatGPT 
+is not only limited as to how much detail it can remember regarding previous chats, but it is also 
+inconsistent. For example, it may remember around 60% of the details of one topic/chat thread you had with it,
+but then another topic it will barely remember 10% of what you talked about, and it will just bring up the general 
+topic as opposed to any specific details, so you have to end up filling it in and uploading a bunch of 
+supplementary materials again. this is the chat I had: https://chatgpt.com/c/692f992e-478c-8329-9ca0-f8b0cf8cf54e
 
+
+week 8: This week I used chatGpt once again, to get some advice on whether or not I should pursue a Data science 
+minor along with my info sci major. I was expecting it to be unfamiliar with the courses within the UMD system, and give
+generalized courses names, however it named all the specific courses as part of the minor. The issue was that even 
+though the courses were correct it was giving wrong information about what courses overlap with the info 
+sci major. This is my chat: https://chatgpt.com/c/691ca64e-67dc-8325-9a2f-18430d3c92b3
+
+
+week 9: 
