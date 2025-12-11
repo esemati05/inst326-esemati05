@@ -75,4 +75,12 @@ though the courses were correct it was giving wrong information about what cours
 sci major. This is my chat: https://chatgpt.com/c/691ca64e-67dc-8325-9a2f-18430d3c92b3
 
 
-week 9: 
+
+week 9: This week I used chatGPT to study for my statistics exam, specifically by feeding it practice questions
+and asking it to walk me through them. Its honestly the best way to study if you dont have access to an answer
+key for practice tests, which is sometimes the case. In this case I had set some "framworks" in my previous chats
+regarding another topic, where I was telling chatGPT to prodouce responses without using any math symbols, and to
+only give me the answers. I was suprised as this was a whole new chat in another tab, but it still 
+remembered what I had said. I had to tell chatGPT to forget about the previous instructions, which it easily 
+transitioned into. This was was my chat: https://chatgpt.com/c/693a457a-e3b8-832a-b8f4-f9954515ca78
+
