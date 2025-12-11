@@ -84,3 +84,11 @@ only give me the answers. I was suprised as this was a whole new chat in another
 remembered what I had said. I had to tell chatGPT to forget about the previous instructions, which it easily 
 transitioned into. This was was my chat: https://chatgpt.com/c/693a457a-e3b8-832a-b8f4-f9954515ca78
 
+
+Week 10: I recently came across something on the internet about people reaching out to amazon sellers and receving 
+their products for free in exchange for making them a video review which they could leave on thier amazon 
+page to boost customer viewership. I thought this was a decent idea, since I had previous expirence in video 
+editing/filimg. I used chatGPT to create an email template I could send to sellers: https://chatgpt.com/c/691b39bd-8250-8325-8d8c-36da1d00ae18
+However, although the email template was good, this method was not as effective as it once had been, because
+amazon has recently limited the number of sellers you can contact in a certain period of time, making this method not worth
+my time.
